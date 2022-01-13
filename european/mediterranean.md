@@ -2,8 +2,8 @@
 ## European --> Meditarranean
 ---
 Select a restaurant:
-## [Tanoreen](https://www.pandabrooklyn.com/)
-## [The Family Store](https://www.pandabrooklyn.com/)
+## [Tanoreen](https://tanoreen.com)
+## [The Family Store](http://familystorecooks.com)
 ---
-[Back to European](asian.md)
+[Back to European](european.md)
 [Start Over](../home.md)
