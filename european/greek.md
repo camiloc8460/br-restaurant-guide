@@ -2,7 +2,8 @@
 ## European --> Greek
 ---
 Select a restaurant:
-## [](https://www.pandabrooklyn.com/)
+## [Omonia Cafe](https://www.pandabrooklyn.com/)
+## [Something Greek](https://www.pandabrooklyn.com/)
 ---
-[Back to Asian](asian.md)  
+[Back to European](asian.md)  
 [Start Over](../home.md)
