@@ -1,4 +1,5 @@
 # Bay Ridge Restaurant Guide
+
 ## European
 ---
 Select a specific European food:
@@ -6,3 +7,4 @@ Select a specific European food:
 ## [Mediterranean](mediterranean.md)
 ---
 [Start Over](../home.md)
+
